@@ -7,3 +7,4 @@ Repository for my Data Analyst internship preparation.
 - Python Core
 - Git basics
 - GitHub basics
+- Goal: Data Analyst Internship
